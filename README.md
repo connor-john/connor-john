@@ -1,4 +1,4 @@
-## Hi there 👋
+ 🤔 Working on AI solutions
 
 <!--
 **connor-john/connor-john** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
